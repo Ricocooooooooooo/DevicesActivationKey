@@ -15,6 +15,6 @@
         "device_id": "ff495bf35e9fea0e",
         "key": "ash256ug",
         "expirydate": "6-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
